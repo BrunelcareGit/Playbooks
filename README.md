@@ -2,7 +2,7 @@
 [[_TOC_]]
 
 # IR Playbooks
-This repository contains all the Incident Response Playbooks and Workflows of Company's SOC.
+This repository contains all the Incident Response Playbooks and Workflows of Brunelcare's Infrastructure and Security team.
 
 Each folder contains a Playbook that is broken down into 6 section as per [NIST - 800.61 r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
