@@ -4,7 +4,7 @@
 
 ## Scope
 This Playbook covers the steps to take when accounts are compromised.  
-Of course, we also need to remediate the hosts where those accounts were used. 
+There is also a need to remediate the hosts where those accounts were used. 
 
 ## 1. Preparation
 
