@@ -1,1 +1,1 @@
-This folder contains all the information about our product and how to use them
+This folder contains all the information about our products and how to use them in relation to incident response.
